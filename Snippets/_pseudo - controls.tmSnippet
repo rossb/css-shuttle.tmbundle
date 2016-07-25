@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>:${10|checked,enabled,disabled,required,optional,valid,invalid,indeterminate,in-range,out-of-range,read-only,read-write|}</string>
+	<key>name</key>
+	<string>Form states</string>
+	<key>scope</key>
+	<string>source.css,source.scss</string>
+	<key>tabTrigger</key>
+	<string>pseudo</string>
+	<key>uuid</key>
+	<string>496D4C5B-BE3D-4B6F-AF1F-7EDD5DC2124A</string>
+</dict>
+</plist>

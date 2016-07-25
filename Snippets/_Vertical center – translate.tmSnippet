@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>.container {
+    // must have height set
+}
+.content {
+    height: auto;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+</string>
+	<key>name</key>
+	<string>translate</string>
+	<key>scope</key>
+	<string>source.css,source.scss</string>
+	<key>tabTrigger</key>
+	<string>center</string>
+	<key>uuid</key>
+	<string>D8F2E731-29AC-4854-8C7A-29E37D6884E8</string>
+</dict>
+</plist>

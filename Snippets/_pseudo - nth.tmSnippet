@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>:nth-${10|child,last-child,of-type,last-of-type|}(${20|3,odd,even,3n (every 3rd),n+2 (starting from 2nd),-n+5 (range 1-5),3n+1 (every 3rd starting from 1)|})</string>
+	<key>name</key>
+	<string>nth…</string>
+	<key>scope</key>
+	<string>source.css,source.scss</string>
+	<key>tabTrigger</key>
+	<string>pseudo</string>
+	<key>uuid</key>
+	<string>C444BFED-20E7-452E-A078-6FF620E4FFAC</string>
+</dict>
+</plist>

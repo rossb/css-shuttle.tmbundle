@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1|white,snow,honeydew,mintcream,azure,aliceblue,ghostwhite,whitesmoke,seashell,beige,oldlace,floralwhite,ivory,antiquewhite,linen,lavenderblush,mistyrose|}</string>
+	<key>name</key>
+	<string>whites</string>
+	<key>scope</key>
+	<string>source.css,source.scss</string>
+	<key>tabTrigger</key>
+	<string>colors</string>
+	<key>uuid</key>
+	<string>8AC4B8D6-EB0B-4B11-B323-EC67F882BA13</string>
+</dict>
+</plist>

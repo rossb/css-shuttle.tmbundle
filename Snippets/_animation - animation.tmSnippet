@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>animation: ${10:anim_name} ${21:0}${20|ms,s|} ${30|ease,ease-in,ease-out,ease-in-out,linear,cubic-bezier(http://cubic-bezier.com/)|}${40: ${41:0}$20}${50: ${51|1,infinite|}}${60| normal, alternate|}${70| none, forwards (retain values set by the last keyframe), backwards (apply first keyframe during animation-delay), both|}${80| running, paused|};</string>
+	<key>name</key>
+	<string>animation</string>
+	<key>scope</key>
+	<string>source.css,source.scss</string>
+	<key>tabTrigger</key>
+	<string>animation</string>
+	<key>uuid</key>
+	<string>1F87D71E-98CE-42C0-9D86-8F562D76523A</string>
+</dict>
+</plist>

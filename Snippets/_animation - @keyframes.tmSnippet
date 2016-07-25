@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@keyframes ${1:anim_name} {
+  0%${2:, ${3:20}%} { ${4} }
+  100%  { $4 }
+}${5:
+/* all properties being animated must appear in the first &amp; last frames, but not in-between ones */}</string>
+	<key>name</key>
+	<string>@keyframes</string>
+	<key>scope</key>
+	<string>source.css,source.scss</string>
+	<key>tabTrigger</key>
+	<string>keyframes</string>
+	<key>uuid</key>
+	<string>D3B7AD5F-E53D-4431-A19C-24CC6E7A5F8E</string>
+</dict>
+</plist>

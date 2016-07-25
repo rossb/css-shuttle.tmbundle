@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>margin: ${10:auto};${20: // can be used in any direction to mean "take up all space you can", mimicking floats}</string>
+	<key>name</key>
+	<string>(child) margin: auto</string>
+	<key>scope</key>
+	<string>text.css</string>
+	<key>tabTrigger</key>
+	<string>flex</string>
+	<key>uuid</key>
+	<string>6C842624-29D2-471B-B737-C056F00863EF</string>
+</dict>
+</plist>

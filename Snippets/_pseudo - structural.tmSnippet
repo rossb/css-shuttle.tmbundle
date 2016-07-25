@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>:${10|hover,focus,active,link,visited,first-child,last-child,first-of-type,last-of-type,only-child,only-of-type,empty,target|}</string>
+	<key>name</key>
+	<string>Basic pseudo-classes</string>
+	<key>scope</key>
+	<string>source.css,source.scss</string>
+	<key>tabTrigger</key>
+	<string>pseudo</string>
+	<key>uuid</key>
+	<string>06113E9E-DEE2-4696-85BB-A1BBAD4D81DC</string>
+</dict>
+</plist>

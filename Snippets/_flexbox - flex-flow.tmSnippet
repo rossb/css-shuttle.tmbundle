@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>flex-flow: ${10|row,row-reverse,column,column-reverse|} ${20|nowrap,wrap,wrap-reverse|};</string>
+	<key>name</key>
+	<string>(container) flex-flow</string>
+	<key>scope</key>
+	<string>text.css</string>
+	<key>tabTrigger</key>
+	<string>flex</string>
+	<key>uuid</key>
+	<string>C3205715-8FAF-4735-B482-6A97E3CEE69C</string>
+</dict>
+</plist>

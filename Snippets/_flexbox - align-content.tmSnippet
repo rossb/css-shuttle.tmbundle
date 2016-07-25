@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>align-content: ${10|flex-start,flex-end,center,stretch,space-between,space-around|};${20: // applies to multiple lines, unlike align-items}</string>
+	<key>name</key>
+	<string>(container) align-content</string>
+	<key>scope</key>
+	<string>text.css</string>
+	<key>tabTrigger</key>
+	<string>flex</string>
+	<key>uuid</key>
+	<string>1B3E4461-079F-45D5-9624-50B5DE36026C</string>
+</dict>
+</plist>

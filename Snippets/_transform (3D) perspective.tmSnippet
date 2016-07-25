@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>perspective: ${10:1000}px;
+perspective-origin: ${30|0,50,100|}${20|%,px|}${40: ${41:$30}$20};</string>
+	<key>name</key>
+	<string>3D perspective</string>
+	<key>scope</key>
+	<string>source.css,source.scss</string>
+	<key>tabTrigger</key>
+	<string>transform</string>
+	<key>uuid</key>
+	<string>B8150A34-0CFD-4414-B213-90C8DFB68D3F</string>
+</dict>
+</plist>

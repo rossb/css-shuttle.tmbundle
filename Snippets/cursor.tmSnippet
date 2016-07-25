@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>cursor: ${1|pointer,auto,inherit,default,none,context-menu,help,progress,wait,cell,crosshair,text,vertical-text,alias,copy,move,no-drop,not-allowed,e-resize,n-resize,ne-resize,nw-resize,s-resize,se-resize,sw-resize,w-resize,ew-resize,ns-resize,nesw-resize,nwse-resize,col-resize,row-resize,all-scroll,zoom-in,zoom-out|};</string>
+	<key>name</key>
+	<string>cursor</string>
+	<key>scope</key>
+	<string>source.css,source.scss</string>
+	<key>tabTrigger</key>
+	<string>cu</string>
+	<key>uuid</key>
+	<string>1FD789F2-9267-4006-BC22-E6AC1D1E4954</string>
+</dict>
+</plist>

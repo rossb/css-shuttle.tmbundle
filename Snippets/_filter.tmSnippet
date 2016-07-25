@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>filter: ${1|blur(5px),url(resources.svg),brightness(0.4),contrast(200%),drop-shadow(16px 16px 20px blue),grayscale(50%),hue-rotate(90deg),invert(75%),opacity(25%),saturate(30%),sepia(60%),inherit
+initial,unset|};</string>
+	<key>name</key>
+	<string>filter</string>
+	<key>scope</key>
+	<string>source.css,source.scss</string>
+	<key>tabTrigger</key>
+	<string>filter</string>
+	<key>uuid</key>
+	<string>6084B3ED-6D3D-45E7-ACDC-6776E128B81A</string>
+</dict>
+</plist>

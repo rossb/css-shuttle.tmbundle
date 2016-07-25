@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>align-self: ${10|flex-start,flex-end,center,baseline,stretch|};${20: // Y/cross axis alignment on child}</string>
+	<key>name</key>
+	<string>(child) align-self</string>
+	<key>scope</key>
+	<string>text.css</string>
+	<key>tabTrigger</key>
+	<string>flex</string>
+	<key>uuid</key>
+	<string>6F55E012-798A-4A50-914B-9F1C2977E6B7</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@media only screen${1:
+    and (min-width : ${2|480,600,768,992,1382|}px)}${3:
+    and (max-width : ${4|480,600,768,992,1382|}px)}${5:
+    and (min-device-width : ${6|320,768|}px)}${7:
+    and (max-device-width : ${8|480,1024|}px)}${9:
+    and (orientation : ${10|portrait,landscape|})} {
+
+${11:}
+
+}
+</string>
+	<key>name</key>
+	<string>@media - general</string>
+	<key>scope</key>
+	<string>source.css,source.scss</string>
+	<key>tabTrigger</key>
+	<string>media</string>
+	<key>uuid</key>
+	<string>8B39FFA9-6D94-4FFF-A9FD-8E69CDED5A57</string>
+</dict>
+</plist>

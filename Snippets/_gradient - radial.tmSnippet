@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>background-image: ${1:repeating-}radial-gradient(${2|ellipse,circle|}${3| farthest-side, closest-side, farthest-corner, closest-corner, 10px, 10em, 10rem|}${4: at ${5|left,top,right,bottom,10px,10%|} ${6|left,top,right,bottom,10px,10%|}},
+    ${7:red}${8| 10%, 10px|},
+    ${9:green}
+);</string>
+	<key>name</key>
+	<string>Radial gradient</string>
+	<key>scope</key>
+	<string>source.css,source.scss</string>
+	<key>tabTrigger</key>
+	<string>gradient</string>
+	<key>uuid</key>
+	<string>6A987EAA-66C0-4780-8B2B-0802D30C1D6C</string>
+</dict>
+</plist>

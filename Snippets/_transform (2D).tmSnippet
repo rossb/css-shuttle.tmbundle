@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>transform:${10: translate(${11|-50%,0|}${12:, ${13|-50%,0|}})}${19: scale(${20|1.2,0,-1\, 1,1\, -1,1\, 0,0\, 1|})}${30: rotate(${32|90,180,270,360|}${31|deg,turn|})}${40: skew(${41:5}deg${42:, ${43:5}deg})}${49: matrix(${50:a, b, c, d, tx, ty})};</string>
+	<key>name</key>
+	<string>2D transform</string>
+	<key>scope</key>
+	<string>source.css,source.scss</string>
+	<key>tabTrigger</key>
+	<string>transform</string>
+	<key>uuid</key>
+	<string>E47890E3-B3FE-4A33-BF72-B3697F31D8B4</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1|aqua,cyan,lightcyan,paleturquoise,aquamarine,turquoise,mediumturquoise,darkturquoise,cadetblue,steelblue,lightsteelblue,powderblue,lightblue,skyblue,lightskyblue,deepskyblue,dodgerblue,cornflowerblue,royalblue,blue,mediumblue,darkblue,navy,midnightblue|}</string>
+	<key>name</key>
+	<string>blues</string>
+	<key>scope</key>
+	<string>source.css,source.scss</string>
+	<key>tabTrigger</key>
+	<string>colors</string>
+	<key>uuid</key>
+	<string>513A4E7E-9BA9-4B57-B01A-412367B6B6A7</string>
+</dict>
+</plist>

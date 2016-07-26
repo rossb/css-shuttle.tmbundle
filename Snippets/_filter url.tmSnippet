@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>-webkit-overflow-scrolling: ${10|touch,auto|};</string>
+	<string>filter: url(${20:filters}.svg#${30:filter-id});</string>
 	<key>name</key>
-	<string>-webkit-overflow-scrolling</string>
+	<string>filter: url();</string>
 	<key>scope</key>
 	<string>source.css,source.scss</string>
 	<key>tabTrigger</key>
-	<string>of</string>
+	<string>filter</string>
 	<key>uuid</key>
-	<string>36703F0B-E946-4B86-9ACD-E0F02B26E5AE</string>
+	<string>64426140-9156-4365-96A6-5050BBF44C17</string>
 </dict>
 </plist>

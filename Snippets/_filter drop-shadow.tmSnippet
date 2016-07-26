@@ -3,15 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>filter: ${1|blur(5px),url(resources.svg),brightness(0.4),contrast(200%),drop-shadow(16px 16px 20px blue),grayscale(50%),hue-rotate(90deg),invert(75%),opacity(25%),saturate(30%),sepia(60%),inherit
-initial,unset|};</string>
+	<string>filter: drop-shadow(${30|« offset-x »,0,1,-1|}px ${40|« offset-y »,0,1,-1|}px ${50|« blur-radius »,0,3|}px ${70:rgba(0,0,0,0.${71:75})});</string>
 	<key>name</key>
-	<string>filter</string>
+	<string>filter: drop-shadow();</string>
 	<key>scope</key>
 	<string>source.css,source.scss</string>
 	<key>tabTrigger</key>
 	<string>filter</string>
 	<key>uuid</key>
-	<string>6084B3ED-6D3D-45E7-ACDC-6776E128B81A</string>
+	<string>16B99EE4-8F97-4ADE-8231-80B894C53AD6</string>
 </dict>
 </plist>

@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>-webkit-overflow-scrolling: ${10|touch,auto|};</string>
+	<string>filter: opacity(.${10:25});</string>
 	<key>name</key>
-	<string>-webkit-overflow-scrolling</string>
+	<string>filter: opacity();</string>
 	<key>scope</key>
 	<string>source.css,source.scss</string>
 	<key>tabTrigger</key>
-	<string>of</string>
+	<string>filter</string>
 	<key>uuid</key>
-	<string>36703F0B-E946-4B86-9ACD-E0F02B26E5AE</string>
+	<string>9A9B9B19-8712-4B59-BED2-53B117D550BA</string>
 </dict>
 </plist>

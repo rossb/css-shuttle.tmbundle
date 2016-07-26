@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>-webkit-overflow-scrolling: ${10|touch,auto|};</string>
+	<string>filter:${10: brightness(${11:200}%)}${20: saturate(${21:200}%)}${30: contrast(${31:200}%)};</string>
 	<key>name</key>
-	<string>-webkit-overflow-scrolling</string>
+	<string>filter: brightness() saturate() contrast();</string>
 	<key>scope</key>
 	<string>source.css,source.scss</string>
 	<key>tabTrigger</key>
-	<string>of</string>
+	<string>filter</string>
 	<key>uuid</key>
-	<string>36703F0B-E946-4B86-9ACD-E0F02B26E5AE</string>
+	<string>6B2CD419-2513-43E5-8719-7FD0BB2B08C9</string>
 </dict>
 </plist>

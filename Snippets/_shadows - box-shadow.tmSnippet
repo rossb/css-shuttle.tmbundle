@@ -3,9 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>box-shadow: ${10:none}${20:${30:1}px ${40:1}px ${50:3}px${60: 0} ${70:rgba(0,0,0,0.4)}${80: inset}};${90:
-/* offset-x | offset-y | blur-radius (edge sharpness) | [spread-radius (negative values pull shadow in)] | color | [inset] */
-/* Any number of shadows, separated by commas */}</string>
+	<string>box-shadow: ${30|« offset-x »,0,1,-1|}px ${40|« offset-y »,0,1,-1|}px ${50|« blur-radius »,0,3|}px${60: ${61|« spread-radius »,1,-1|}px} ${70:rgba(0,0,0,0.${71:75})}${80: inset};</string>
 	<key>name</key>
 	<string>box-shadow</string>
 	<key>scope</key>

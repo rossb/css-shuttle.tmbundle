@@ -3,9 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>text-shadow: ${1:1}px ${2:1}px ${3:3}px ${4:rgba(0,0,0,0.4)};${5:
-/* offset-x | offset-y | blur-radius | color */
-/* Any number of shadows, separated by commas */}</string>
+	<string>text-shadow: ${10|« offset-x »,0,1,-1|}px ${20|« offset-y »,0,1,-1|}px ${30|« blur-radius »,0,3|}px ${40:rgba(0,0,0,0.${41:75})};</string>
 	<key>name</key>
 	<string>text-shadow</string>
 	<key>scope</key>

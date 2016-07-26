@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>flex-flow: ${10|row,row-reverse,column,column-reverse|} ${20|nowrap,wrap,wrap-reverse|};</string>
 	<key>name</key>
-	<string>(container) flex-flow</string>
+	<string>flex-flow</string>
 	<key>scope</key>
 	<string>text.css</string>
 	<key>tabTrigger</key>

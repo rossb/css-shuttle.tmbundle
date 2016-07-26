@@ -3,19 +3,18 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@media ${10|,not |}${20:only ${21|print,screen,speech|} and }$30 {
+	<string>@supports ${10:not }($20) {
 
 $0
 
-}
-</string>
+}</string>
 	<key>name</key>
-	<string>@media block</string>
+	<string>@supports block</string>
 	<key>scope</key>
 	<string>source.css,source.scss</string>
 	<key>tabTrigger</key>
 	<string>media</string>
 	<key>uuid</key>
-	<string>8B39FFA9-6D94-4FFF-A9FD-8E69CDED5A57</string>
+	<string>922DCFAE-18D6-4D5C-8CE8-886928A4D810</string>
 </dict>
 </plist>

@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>order: ${10|0,1,-1|};</string>
 	<key>name</key>
-	<string>(child) order</string>
+	<string>order</string>
 	<key>scope</key>
 	<string>text.css</string>
 	<key>tabTrigger</key>

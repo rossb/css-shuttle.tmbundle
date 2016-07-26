@@ -9,7 +9,7 @@ flex-grow: $30; // 0 is default (no grow)
 flex-shrink: $40; // 1 is default (shrink)
 flex-basis: $50; // the initial main size of the flex item, before free space is distributed according to the flex factors</string>
 	<key>name</key>
-	<string>(child) flex</string>
+	<string>flex</string>
 	<key>scope</key>
 	<string>text.css</string>
 	<key>tabTrigger</key>

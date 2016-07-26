@@ -3,19 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@media ${10|,not |}${20:only ${21|print,screen,speech|} and }$30 {
-
-$0
-
-}
-</string>
+	<string>(${10|min-,max-|}aspect-ratio: ${20|1/1,4/3,3/2,8/5,16/9|})${999|, and ,\,\n|}</string>
 	<key>name</key>
-	<string>@media block</string>
+	<string>(aspect-ratio)</string>
 	<key>scope</key>
 	<string>source.css,source.scss</string>
 	<key>tabTrigger</key>
 	<string>media</string>
 	<key>uuid</key>
-	<string>8B39FFA9-6D94-4FFF-A9FD-8E69CDED5A57</string>
+	<string>08909BFB-6025-43C0-8D12-FBD04A0A9A52</string>
 </dict>
 </plist>

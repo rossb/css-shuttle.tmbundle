@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>align-content: ${10|flex-start,flex-end,center,stretch,space-between,space-around|};${20: // applies to multiple lines, unlike align-items}</string>
 	<key>name</key>
-	<string>(container) align-content</string>
+	<string>align-content</string>
 	<key>scope</key>
 	<string>text.css</string>
 	<key>tabTrigger</key>

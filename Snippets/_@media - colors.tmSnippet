@@ -3,19 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@media ${10|,not |}${20:only ${21|print,screen,speech|} and }$30 {
-
-$0
-
-}
-</string>
+	<string>(${20|,min-,max-|}${10|monochrome,color-index,color|}${31|,\: 256|})${999|, and ,\,\n|}</string>
 	<key>name</key>
-	<string>@media block</string>
+	<string>(monochrome/color-index/color)</string>
 	<key>scope</key>
 	<string>source.css,source.scss</string>
 	<key>tabTrigger</key>
 	<string>media</string>
 	<key>uuid</key>
-	<string>8B39FFA9-6D94-4FFF-A9FD-8E69CDED5A57</string>
+	<string>67A5F54E-5478-4B32-9309-DEE49C5E5D3D</string>
 </dict>
 </plist>

@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>align-self: ${10|flex-start,flex-end,center,baseline,stretch|};${20: // Y/cross axis alignment on child}</string>
 	<key>name</key>
-	<string>(child) align-self</string>
+	<string>align-self</string>
 	<key>scope</key>
 	<string>text.css</string>
 	<key>tabTrigger</key>

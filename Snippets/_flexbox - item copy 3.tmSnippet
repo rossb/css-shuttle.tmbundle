@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>margin: ${10:auto};${20: // can be used in any direction to mean "take up all space you can", mimicking floats}</string>
 	<key>name</key>
-	<string>(child) margin: auto</string>
+	<string>margin: auto</string>
 	<key>scope</key>
 	<string>text.css</string>
 	<key>tabTrigger</key>

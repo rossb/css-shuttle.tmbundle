@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>align-items: ${10|flex-start,flex-end,center,baseline,stretch|};${20: // Y/cross axis alignment}</string>
 	<key>name</key>
-	<string>(container) align-items</string>
+	<string>align-items</string>
 	<key>scope</key>
 	<string>text.css</string>
 	<key>tabTrigger</key>

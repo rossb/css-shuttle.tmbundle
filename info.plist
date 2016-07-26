@@ -106,11 +106,19 @@
 				<key>items</key>
 				<array>
 					<string>8B39FFA9-6D94-4FFF-A9FD-8E69CDED5A57</string>
-					<string>678B0CB9-1320-435A-95F6-6EB36F3130BB</string>
-					<string>D0488C59-5997-4D81-AE21-DAB8455D1DF3</string>
+					<string>------------------------------------</string>
+					<string>AED6686D-2826-48D9-8C64-98AD45CE317C</string>
+					<string>D9F3284D-3BD1-4A18-9AF1-3D72B007879C</string>
+					<string>F8FD71F7-D603-4A59-BC81-8734A814F69C</string>
+					<string>08909BFB-6025-43C0-8D12-FBD04A0A9A52</string>
+					<string>67A5F54E-5478-4B32-9309-DEE49C5E5D3D</string>
+					<string>9137B7AE-82DC-4BFC-A838-80CDDEA3D4A0</string>
+					<string>B14B14F4-E92C-4F2E-A615-E4C41943CC9D</string>
+					<string>------------------------------------</string>
+					<string>922DCFAE-18D6-4D5C-8CE8-886928A4D810</string>
 				</array>
 				<key>name</key>
-				<string>Media queries</string>
+				<string>Conditional group rules</string>
 			</dict>
 			<key>862383C3-ED1B-4395-80D4-8EDBD763D965</key>
 			<dict>
@@ -170,6 +178,7 @@
 					<string>1343ABF8-CDB6-42F5-B781-570723F58E47</string>
 					<string>58DC89C6-D295-40E9-AF96-FF12F7DFD824</string>
 					<string>1B3E4461-079F-45D5-9624-50B5DE36026C</string>
+					<string>------------------------------------</string>
 					<string>BE2145FA-25F0-4815-BCB9-FDCBA5D354B4</string>
 					<string>6F55E012-798A-4A50-914B-9F1C2977E6B7</string>
 					<string>FE7D0770-C712-47A2-A540-9E5E99AAB259</string>

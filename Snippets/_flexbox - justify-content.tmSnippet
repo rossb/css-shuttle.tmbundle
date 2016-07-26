@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>justify-content: ${10|flex-start,flex-end,center,space-between,space-around|};${20:  // X/main axis alignment}</string>
 	<key>name</key>
-	<string>(container) justify-content</string>
+	<string>justify-content</string>
 	<key>scope</key>
 	<string>text.css</string>
 	<key>tabTrigger</key>

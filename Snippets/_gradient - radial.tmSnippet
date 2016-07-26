@@ -3,12 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>background-image: ${1:repeating-}radial-gradient(${2|ellipse,circle|}${3| farthest-side, closest-side, farthest-corner, closest-corner, 10px, 10em, 10rem|}${4: at ${5|left,top,right,bottom,10px,10%|} ${6|left,top,right,bottom,10px,10%|}},
-    ${7:red}${8| 10%, 10px|},
-    ${9:green}
-);</string>
+	<string>${10|,repeating-|}radial-gradient(${20|,ellipse ,circle |}${30|farthest-side,closest-side,farthest-corner,closest-corner|}${40: at ${41|center,left,right,top,bottom,25% 75%,0 10px|}},
+    ${50:red}${60: ${62:10}${61|%,px|}},$0
+)</string>
 	<key>name</key>
-	<string>Radial gradient</string>
+	<string>radial-gradient()</string>
 	<key>scope</key>
 	<string>source.css,source.scss</string>
 	<key>tabTrigger</key>

@@ -3,12 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>background-image: ${10:repeating-}linear-gradient( ${20:${21:45}deg}${30:to ${40|left,top,right,bottom|}${50| left, top, right, bottom|}},
-    ${60:red}${70| 10%, 10px|},
-    ${80:green}
-);</string>
+	<string>${10|,repeating-|}linear-gradient(${20:to ${21|bottom,top,left,right,bottom left,bottom right,top left,top right|}}${30: ${31:45}deg},
+    ${40:red}${50: ${52:10}${51|%,px|}},$0
+)</string>
 	<key>name</key>
-	<string>Linear gradient</string>
+	<string>linear-gradient()</string>
 	<key>scope</key>
 	<string>source.css,source.scss</string>
 	<key>tabTrigger</key>

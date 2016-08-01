@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>margin: ${10:auto};${20: // can be used in any direction to mean "take up all space you can", mimicking floats}</string>
+	<string>pointer-events: ${10|auto,none,visiblePainted,visibleFill,visibleStroke,visible,painted,fill,stroke,all,inherit,initial,unset|};</string>
 	<key>name</key>
-	<string>margin: auto</string>
+	<string>pointer-events</string>
 	<key>scope</key>
 	<string>source.css,source.scss</string>
 	<key>tabTrigger</key>
-	<string>flex</string>
+	<string>pe</string>
 	<key>uuid</key>
-	<string>6C842624-29D2-471B-B737-C056F00863EF</string>
+	<string>4DD56AEC-C87A-4881-8347-2130E2F533F2</string>
 </dict>
 </plist>

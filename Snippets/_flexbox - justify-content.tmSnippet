@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>justify-content</string>
 	<key>scope</key>
-	<string>text.css</string>
+	<string>source.css,source.scss</string>
 	<key>tabTrigger</key>
 	<string>flex</string>
 	<key>uuid</key>

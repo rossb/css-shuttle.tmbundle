@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>animation-direction: ${60|normal,alternate|};</string>
+	<key>name</key>
+	<string>animation-direction</string>
+	<key>scope</key>
+	<string>source.css,source.scss</string>
+	<key>tabTrigger</key>
+	<string>animation</string>
+	<key>uuid</key>
+	<string>B9DC7200-743A-4ED7-9A11-1CA6235348B9</string>
+</dict>
+</plist>

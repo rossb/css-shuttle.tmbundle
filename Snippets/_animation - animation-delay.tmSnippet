@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>animation-delay: ${21:0}${20|ms,s|};</string>
+	<key>name</key>
+	<string>animation-delay</string>
+	<key>scope</key>
+	<string>source.css,source.scss</string>
+	<key>tabTrigger</key>
+	<string>animation</string>
+	<key>uuid</key>
+	<string>26187AB5-D4F8-4F43-8984-322C15F492F1</string>
+</dict>
+</plist>

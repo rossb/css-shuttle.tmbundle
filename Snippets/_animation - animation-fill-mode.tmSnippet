@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>animation-fill-mode: ${70|none,both,forwards (retain values set by the last keyframe),backwards (apply first keyframe during animation-delay)|};</string>
+	<key>name</key>
+	<string>animation-fill-mode</string>
+	<key>scope</key>
+	<string>source.css,source.scss</string>
+	<key>tabTrigger</key>
+	<string>animation</string>
+	<key>uuid</key>
+	<string>68E55674-A7D0-4571-B7EB-70F84BD51E0F</string>
+</dict>
+</plist>

@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>filter: opacity(.${10:25});</string>
 	<key>name</key>
-	<string>filter: opacity();</string>
+	<string>opacity</string>
 	<key>scope</key>
 	<string>source.css,source.scss</string>
 	<key>tabTrigger</key>

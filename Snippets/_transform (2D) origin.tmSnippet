@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>transform-origin: ${20|0,50,100|}${10|%,px|}${30: ${31:$20}$10};</string>
 	<key>name</key>
-	<string>2D transform-origin</string>
+	<string>transform-origin</string>
 	<key>scope</key>
 	<string>source.css,source.scss</string>
 	<key>tabTrigger</key>

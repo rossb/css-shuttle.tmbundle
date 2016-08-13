@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>filter: url(${20:filters}.svg#${30:filter-id});</string>
 	<key>name</key>
-	<string>filter: url();</string>
+	<string>url</string>
 	<key>scope</key>
 	<string>source.css,source.scss</string>
 	<key>tabTrigger</key>

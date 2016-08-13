@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>filter:${20: grayscale(${21:100}%)}${30: sepia(${31:100}%)}${40: invert(${41:100}%)}${50: hue-rotate(${51:180}deg)};</string>
 	<key>name</key>
-	<string>filter: grayscale() sepia() invert() hue-rotate();</string>
+	<string>grayscale/sepia/invert/hue-rotate</string>
 	<key>scope</key>
 	<string>source.css,source.scss</string>
 	<key>tabTrigger</key>

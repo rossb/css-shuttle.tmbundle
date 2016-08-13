@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>filter:${10: brightness(${11:200}%)}${20: saturate(${21:200}%)}${30: contrast(${31:200}%)};</string>
 	<key>name</key>
-	<string>filter: brightness() saturate() contrast();</string>
+	<string>brightness/saturate/contrast</string>
 	<key>scope</key>
 	<string>source.css,source.scss</string>
 	<key>tabTrigger</key>

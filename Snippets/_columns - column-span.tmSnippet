@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>margin: ${10:auto};${20: // can be used in any direction to mean "take up all space you can", mimicking floats}</string>
+	<string>column-span: ${10|none,all|};</string>
 	<key>name</key>
-	<string>margin: auto</string>
+	<string>column-span</string>
 	<key>scope</key>
 	<string>source.css,source.scss</string>
 	<key>tabTrigger</key>
-	<string>flex</string>
+	<string>columns</string>
 	<key>uuid</key>
-	<string>6C842624-29D2-471B-B737-C056F00863EF</string>
+	<string>1E693DCD-C0C9-4EA4-B2D9-1A4F25748E35</string>
 </dict>
 </plist>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>${10|max,min|}-width: ${20|940px,100%,none,0|};</string>
+	<string>${10|max,min|}-width: ${30|,none,auto|}${20|%,px,vh,vw,em,rem|};</string>
 	<key>name</key>
 	<string>max/min-width</string>
 	<key>scope</key>

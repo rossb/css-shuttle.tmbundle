@@ -7,7 +7,7 @@
 	<key>contactName</key>
 	<string>Ross Barnes</string>
 	<key>description</key>
-	<string>TextMate bundle for authoring modern CSS quickly.</string>
+	<string>Efficiently author modern CSS. Snippets for animations, gradients, flexbox, and so on.</string>
 	<key>mainMenu</key>
 	<dict>
 		<key>excludedItems</key>
@@ -23,6 +23,8 @@
 			<string>774B42DE-5598-42A0-8B33-10A2EAEB4F55</string>
 			<string>A9D4F693-0F70-461B-8DCB-DACEA4BC5349</string>
 			<string>25348824-F9ED-40F1-89A0-52689C28948B</string>
+      <string>EF3AD8D8-0368-4BFD-81F3-D66D46DF7378</string>
+			<string>------------------------------------</string>
 			<string>C4C43569-B611-49C1-8101-F15E5718C58A</string>
 			<string>------------------------------------</string>
 			<string>35222962-C50D-4D58-A6AE-71E7AD980BE4</string>
@@ -223,16 +225,32 @@
 				<key>name</key>
 				<string>Non-standard</string>
 			</dict>
-			<key>C72CEAAF-AF24-4C2C-95A7-EE008472F53A</key>
-			<dict>
-				<key>items</key>
-				<array>
-					<string>70BA5993-5082-4B2E-8128-B68E872F8E0D</string>
-					<string>6A987EAA-66C0-4780-8B2B-0802D30C1D6C</string>
-				</array>
-				<key>name</key>
-				<string>Gradients</string>
-			</dict>
+      <key>C72CEAAF-AF24-4C2C-95A7-EE008472F53A</key>
+      <dict>
+        <key>items</key>
+        <array>
+          <string>70BA5993-5082-4B2E-8128-B68E872F8E0D</string>
+          <string>6A987EAA-66C0-4780-8B2B-0802D30C1D6C</string>
+        </array>
+        <key>name</key>
+        <string>Gradients</string>
+      </dict>
+      <key>EF3AD8D8-0368-4BFD-81F3-D66D46DF7378</key>
+      <dict>
+        <key>items</key>
+        <array>
+          <string>6F247B88-AE17-45BF-AFD9-08D26B089CF2</string>
+          <string>D1C53042-201A-4A48-ABC9-8915A4FF317F</string>
+          <string>D03AF7B6-E37D-460B-9137-1E2547C1D1F8</string>
+					<string>------------------------------------</string>
+          <string>AF58F1D7-45DF-414F-A7CB-586A0BBFA417</string>
+          <string>1E693DCD-C0C9-4EA4-B2D9-1A4F25748E35</string>
+          <string>E1B79F1F-DF86-40F1-B7E7-24193DD3A202</string>
+          <string>E6A51285-1A48-4234-8951-0F399CBBA15B</string>
+        </array>
+        <key>name</key>
+        <string>Columns</string>
+      </dict>
 		</dict>
 	</dict>
 	<key>name</key>

@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>box-shadow: ${10:${30|« offset-x »,0,1,-1|}px ${40|« offset-y »,0,1,-1|}px ${50|« blur-radius »,0,3|}px${60: ${61|« spread-radius »,1,-1|}px} ${70:rgba(0,0,0,0.${71:75})}${80: inset}};</string>
+	<string>columns:${10: ${11:2}}${20: ${22:100}${21|%,px,em,rem,vh,vw|}};</string>
 	<key>name</key>
-	<string>box-shadow</string>
+	<string>columns</string>
 	<key>scope</key>
 	<string>source.css,source.scss</string>
 	<key>tabTrigger</key>
-	<string>shadow</string>
+	<string>columns</string>
 	<key>uuid</key>
-	<string>5F9A30F0-01C6-4B24-88C0-8180A488F321</string>
+	<string>6F247B88-AE17-45BF-AFD9-08D26B089CF2</string>
 </dict>
 </plist>

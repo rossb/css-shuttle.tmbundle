@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>align-content: ${10|flex-start,flex-end,center,stretch,space-between,space-around|};${20: // applies to multiple lines, unlike align-items}</string>
+	<string>${10|align-content:,« applies to multiple lines\, unlike align-items »|} ${20|flex-start,flex-end,center,stretch,space-between,space-around|};</string>
 	<key>name</key>
 	<string>align-content</string>
 	<key>scope</key>

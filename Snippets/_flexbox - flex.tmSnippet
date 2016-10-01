@@ -3,11 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>flex: ${10|initial,auto,none,&lt;integer&gt;|}${20: ${30|0,1,2|} ${40|1,0,2|} ${50|auto,0,100px,100%|}};${60:
-
-flex-grow: $30; // 0 is default (no grow)
-flex-shrink: $40; // 1 is default (shrink)
-flex-basis: $50; // the initial main size of the flex item, before free space is distributed according to the flex factors}</string>
+	<string>flex:${10: ${11|initial,auto,none,&lt;integer&gt;|}}${20: ${21|0,1,2,« flex-grow »|} ${30|1,0,2,« flex-shrink »|} ${40|auto,0,100px,100%,« flex-basis »|}};</string>
 	<key>name</key>
 	<string>flex</string>
 	<key>scope</key>

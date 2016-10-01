@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>align-self: ${10|flex-start,flex-end,center,baseline,stretch|};${20: // Y/cross axis alignment on child}</string>
+	<string>${10|align-self:,« alter Y/cross axis alignment of child »|} ${20|flex-start,flex-end,center,baseline,stretch|};</string>
 	<key>name</key>
 	<string>align-self</string>
 	<key>scope</key>

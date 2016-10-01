@@ -49,7 +49,7 @@
 					<string>A8FFF90A-4872-44EB-AE11-3A7EC3D36F26</string>
 				</array>
 				<key>name</key>
-				<string>Pseudo-classes/elements</string>
+				<string>Pseudos</string>
 			</dict>
 			<key>25348824-F9ED-40F1-89A0-52689C28948B</key>
 			<dict>
@@ -98,7 +98,6 @@
 				<array>
 					<string>5F9A30F0-01C6-4B24-88C0-8180A488F321</string>
 					<string>6AD0EA80-7660-421E-B9DF-D4200C1D033E</string>
-					<string>16B99EE4-8F97-4ADE-8231-80B894C53AD6</string>
 				</array>
 				<key>name</key>
 				<string>Shadows</string>

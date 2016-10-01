@@ -4,12 +4,12 @@
 <dict>
 	<key>content</key>
 	<string>@font-face {
-    font-family: '${1:Menlo}';
-    src: url('../fonts/$1/${2:Menlo}.woff2') format('woff2'),
-         url('../fonts/$1/$2.woff') format('woff'),
-         url('../fonts/$1/$2.ttf') format('truetype');
-    font-weight: ${3|normal,bold|};
-    font-style: ${4|normal,italic|};
+	font-family: '${1:Menlo}';
+	src: url('../fonts/$1/${2:Menlo}.woff2') format('woff2'),
+	url('../fonts/$1/$2.woff') format('woff'),
+	url('../fonts/$1/$2.ttf') format('truetype');
+	font-weight: ${3|normal,bold|};
+	font-style: ${4|normal,italic|};
 }</string>
 	<key>name</key>
 	<string>@font-face</string>

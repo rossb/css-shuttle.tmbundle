@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>transform:${10: rotate3d(${11:x, y, z})}${20: translate3d(${21:x, y, z})}${30: scale3d(${31:x, y, z})}${40: matrix3d(${41:a1, b1, c1, d1, a2, b2, c2, d2, a3, b3, c3, d3, a4, b4, c4, d4})};</string>
+	<string>transform:${10: rotate3d(${11:x, y, z})}${20: translate3d(${21:x, y, z})}${30: scale3d(${31:x, y, z})};</string>
 	<key>name</key>
 	<string>3D transform</string>
 	<key>scope</key>

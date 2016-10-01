@@ -4,7 +4,7 @@
 <dict>
 	<key>content</key>
 	<string>${10|,repeating-|}radial-gradient(${20|,ellipse ,circle |}${30|farthest-side,closest-side,farthest-corner,closest-corner|}${40: at ${41|center,left,right,top,bottom,25% 75%,0 10px|}},
-    ${50:red}${60: ${62:10}${61|%,px|}},$0
+	${50:red}${60: ${62:10}${61|%,px|}},$0
 )</string>
 	<key>name</key>
 	<string>radial-gradient()</string>

@@ -4,24 +4,22 @@
 <dict>
 	<key>content</key>
 	<string>.container {
-  vertical-align: middle;
-  white-space: nowrap;
+	vertical-align: middle;
+	white-space: nowrap;
 }
 .container:before {
-  content: '';
-  height: 100%;
-  width: 1px;
-  margin-left: -1px;
-  display: inline-block;
-  vertical-align: middle;
+	content: '';
+	height: 100%;
+	width: 1px;
+	margin-left: -1px;
+	display: inline-block;
+	vertical-align: middle;
 }
 .centred {
-  display: inline-block;
-  vertical-align: middle;
-  white-space: normal;
-}
-
-</string>
+	display: inline-block;
+	vertical-align: middle;
+	white-space: normal;
+}</string>
 	<key>name</key>
 	<string>:before</string>
 	<key>scope</key>

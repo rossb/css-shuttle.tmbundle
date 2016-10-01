@@ -4,11 +4,10 @@
 <dict>
 	<key>content</key>
 	<string>.container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-</string>
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}</string>
 	<key>name</key>
 	<string>flexbox</string>
 	<key>scope</key>

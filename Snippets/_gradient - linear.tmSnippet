@@ -4,7 +4,7 @@
 <dict>
 	<key>content</key>
 	<string>${10|,repeating-|}linear-gradient(${20:to ${21|bottom,top,left,right,bottom left,bottom right,top left,top right|}}${30: ${31:45}deg},
-    ${40:red}${50: ${52:10}${51|%,px|}},$0
+	${40:red}${50: ${52:10}${51|%,px|}},$0
 )</string>
 	<key>name</key>
 	<string>linear-gradient()</string>

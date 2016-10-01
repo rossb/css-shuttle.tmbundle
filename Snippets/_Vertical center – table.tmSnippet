@@ -4,15 +4,14 @@
 <dict>
 	<key>content</key>
 	<string>.container {
-    display: table;
-    height: &lt;must be set&gt;;
-    width: &lt;must be set, at least for IE&gt;;
+	display: table;
+	height: &lt;must be set&gt;;
+	width: &lt;must be set, at least for IE&gt;;
 }
 .content {
-    display: table-cell;
-    vertical-align: middle;
-}
-</string>
+	display: table-cell;
+	vertical-align: middle;
+}</string>
 	<key>name</key>
 	<string>table</string>
 	<key>scope</key>

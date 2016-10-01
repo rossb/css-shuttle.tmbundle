@@ -4,15 +4,14 @@
 <dict>
 	<key>content</key>
 	<string>.container {
-    // must have height set
+	// must have height set
 }
 .content {
-    height: auto;
-    position: relative;
-    top: 50%;
-    transform: translateY(-50%);
-}
-</string>
+	height: auto;
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+}</string>
 	<key>name</key>
 	<string>translate</string>
 	<key>scope</key>

@@ -3,11 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@keyframes ${1:anim_name} {
-  0%${2:, ${3:20}%} { ${4} }
-  100%  { $4 }
-}${5:
-/* all properties being animated must appear in the first &amp; last frames, but not in-between ones */}</string>
+	<string>@keyframes ${10:anim_name} {
+	0%${20:, ${30:20}%} {
+		${40}
+	}
+	100%  {
+		$40
+	}
+}</string>
 	<key>name</key>
 	<string>@keyframes</string>
 	<key>scope</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>background-position: ${1:0}${2|px,%|} ${3:0}${4|px,%|};$0</string>
+	<string>background-position: ${1:0}${2|px,%|} ${3:0}${4|px,%|};</string>
 	<key>name</key>
 	<string>background-position</string>
 	<key>scope</key>

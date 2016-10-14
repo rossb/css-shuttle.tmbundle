@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>font-size: ${1:1.2}${2|rem,px,em|};</string>
+	<string>font-size: ${5:${20:1.2}${10|rem,px,em|}};</string>
 	<key>name</key>
 	<string>font-size</string>
 	<key>scope</key>

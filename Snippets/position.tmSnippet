@@ -9,7 +9,7 @@
 	<key>scope</key>
 	<string>source.css,source.scss</string>
 	<key>tabTrigger</key>
-	<string>po</string>
+	<string>pos</string>
 	<key>uuid</key>
 	<string>B84FD7BF-7553-40D0-B96D-067020762078</string>
 </dict>

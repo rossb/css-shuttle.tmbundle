@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>line-height: ${1:1}${2|em,px|};$0</string>
+	<string>line-height: ${5:${20:1}${10|em,px|}};$0</string>
 	<key>name</key>
 	<string>line-height</string>
 	<key>scope</key>

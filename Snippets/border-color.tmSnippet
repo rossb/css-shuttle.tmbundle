@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>!important</string>
+	<string>border-color: ${10:#${20:000}};</string>
 	<key>name</key>
-	<string>!important</string>
+	<string>border-color</string>
 	<key>scope</key>
 	<string>source.css,source.scss</string>
 	<key>tabTrigger</key>
-	<string>!</string>
+	<string>bc</string>
 	<key>uuid</key>
-	<string>F70EA2F9-3055-41C5-95E9-62B04D5DFD7E</string>
+	<string>DAEAA83F-B165-4EBB-890C-CE7CAEC5C0C6</string>
 </dict>
 </plist>

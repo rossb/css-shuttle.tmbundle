@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>margin${10|,-top,-bottom,-left,-right|}: $20;</string>
+	<string>margin${10|,-top,-bottom,-left,-right|}: ${20|,0 auto|};</string>
 	<key>name</key>
 	<string>margin</string>
 	<key>scope</key>

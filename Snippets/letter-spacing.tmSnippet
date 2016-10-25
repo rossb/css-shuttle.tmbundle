@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>letter-spacing: ${2|1px,0.01em,normal|};$0</string>
+	<string>letter-spacing: ${2|.15em,1px,normal|};</string>
 	<key>name</key>
 	<string>letter-spacing</string>
 	<key>scope</key>

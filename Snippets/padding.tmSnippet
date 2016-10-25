@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>padding${10|,-top,-bottom,-left,-right|}: $20;</string>
+	<string>padding${10|,-top,-bottom,-left,-right|}: ${20:0};</string>
 	<key>name</key>
 	<string>padding</string>
 	<key>scope</key>

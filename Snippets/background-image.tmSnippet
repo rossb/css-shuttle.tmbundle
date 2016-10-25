@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>background-position: ${20:0}${10|%,px|} ${40:0}${30|%,px|};</string>
+	<string>background-image: ${10:url('${20:cats.png}')};</string>
 	<key>name</key>
-	<string>background-position</string>
+	<string>background-image</string>
 	<key>scope</key>
 	<string>source.css,source.scss</string>
 	<key>tabTrigger</key>
 	<string>bg</string>
 	<key>uuid</key>
-	<string>605978CC-3996-4DE1-9BF8-E28CBDBBA8D4</string>
+	<string>5E71A217-9243-4289-8C43-A8CDE32E656B</string>
 </dict>
 </plist>

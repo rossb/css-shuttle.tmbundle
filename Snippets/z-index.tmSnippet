@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>background-color: ${1|black,white,transparent|};</string>
+	<string>z-index: ${1|0,-1|};</string>
 	<key>name</key>
-	<string>background-color</string>
+	<string>z-index</string>
 	<key>scope</key>
 	<string>source.css,source.scss</string>
 	<key>tabTrigger</key>
-	<string>bg</string>
+	<string>z</string>
 	<key>uuid</key>
-	<string>0D42903F-E81C-4243-9F0C-943C7C445C58</string>
+	<string>A303D886-B1D8-4182-A848-2950E0BBB641</string>
 </dict>
 </plist>

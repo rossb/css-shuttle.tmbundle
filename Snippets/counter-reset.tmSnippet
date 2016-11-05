@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>content: ${10|,none,attr(),url(),open-quote,close-quote,counter(),counters()|};</string>
+	<string>counter-reset: ${10:section};</string>
 	<key>name</key>
-	<string>content</string>
+	<string>counter-reset</string>
 	<key>scope</key>
 	<string>source.css,source.scss</string>
 	<key>tabTrigger</key>
-	<string>con</string>
+	<string>count</string>
 	<key>uuid</key>
-	<string>7C41D54F-9AA7-4BA5-8D95-C65329328B6D</string>
+	<string>6753EF09-58CA-44FE-909F-388A9C689C3B</string>
 </dict>
 </plist>

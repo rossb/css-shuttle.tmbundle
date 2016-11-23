@@ -4,19 +4,19 @@
 <dict>
 	<key>content</key>
 	<string>@font-face {
-	font-family: '${1:Menlo}';
-	src: url('../fonts/$1/${2:Menlo}.woff2') format('woff2'),
-	url('../fonts/$1/$2.woff') format('woff'),
-	url('../fonts/$1/$2.ttf') format('truetype');
-	font-weight: ${3|normal,bold|};
-	font-style: ${4|normal,italic|};
+	font-family: '${10:Menlo}';
+	src: url('../fonts/$10/${20:Menlo}.woff2') format('woff2'),
+		url('../fonts/$10/$20.woff') format('woff'),
+		url('../fonts/$10/$20.ttf') format('truetype');
+	font-weight: ${30|normal,bold|};
+	font-style: ${40|normal,italic|};
 }</string>
 	<key>name</key>
 	<string>@font-face</string>
 	<key>scope</key>
 	<string>source.css,source.scss</string>
 	<key>tabTrigger</key>
-	<string>font</string>
+	<string>@font-face</string>
 	<key>uuid</key>
 	<string>DA5456A0-D679-4D65-BDC4-F03AAFEE6D93</string>
 </dict>

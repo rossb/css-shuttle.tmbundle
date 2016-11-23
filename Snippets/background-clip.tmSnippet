@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>background-size: ${1|100%,contain,cover,10px,3em,auto|};</string>
+	<string>background-clip: ${10|border-box,padding-box,content-box|};</string>
 	<key>name</key>
-	<string>background-size</string>
+	<string>background-clip</string>
 	<key>scope</key>
 	<string>source.css,source.scss</string>
 	<key>tabTrigger</key>
 	<string>bg</string>
 	<key>uuid</key>
-	<string>778A708C-40E2-41AB-B976-F587932C64A7</string>
+	<string>85EED58D-C358-493F-9A73-1BF2C3E424EC</string>
 </dict>
 </plist>

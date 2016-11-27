@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>margin${10|,-top,-bottom,-left,-right|}: ${20|0,auto|};</string>
+	<string>touch-action: ${10|auto,manipulation,none,pan-x,pan-y|};</string>
 	<key>name</key>
-	<string>margin</string>
+	<string>touch-action</string>
 	<key>scope</key>
 	<string>source.css,source.scss</string>
 	<key>tabTrigger</key>
-	<string>m</string>
+	<string>ta</string>
 	<key>uuid</key>
-	<string>265FE01E-C8B8-4A10-85FB-0E031DC38AC3</string>
+	<string>0BA89AF8-DF3B-4E21-B242-655C8CA4DC18</string>
 </dict>
 </plist>

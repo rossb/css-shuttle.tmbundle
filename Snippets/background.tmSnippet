@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>background:${10: ${11|white,#FFFFFF,rgba(255\,255\,255\,1),hsla(0\,0%\,100%\,1)|}}${20: url("${21:../images/filename.gif}")}${30: ${31|no-repeat,repeat-x,repeat-y,space,round|}}${40: ${41|0,center,50%|}${42:/${43|contain,cover|}}};</string>
+	<string>background:${10: ${11|white,#FFFFFF,rgba(255\,255\,255\,1),hsla(0\,0%\,100%\,1)|}}${20: url("${21:../images/filename.gif}")}${30: ${31|no-repeat,repeat,repeat-x,repeat-y,space,round|}}${40: ${41|0,50%,center,top,bottom,left,right|}${42:/${43|contain,cover|}}};</string>
 	<key>name</key>
 	<string>background</string>
 	<key>scope</key>

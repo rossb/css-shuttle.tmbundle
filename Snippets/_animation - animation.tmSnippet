@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>animation: ${10:anim_name} ${21:0}${20|ms,s|} ${30|ease,ease-in,ease-out,ease-in-out,linear,cubic-bezier()|}${40: ${41:0}$20}${50: ${51|1,infinite|}};</string>
+	<string>animation: ${10:anim_name} ${21:0}${20|ms,s|} ${30|ease,ease-in,ease-out,ease-in-out,linear,step-start,step-end,steps(4, end),cubic-bezier(http://cubic-bezier.com/)|}${40: ${41:0}$20}${50: ${51|1,infinite|}};</string>
 	<key>name</key>
 	<string>animation</string>
 	<key>scope</key>
 	<string>source.css,source.scss</string>
 	<key>tabTrigger</key>
-	<string>animation</string>
+	<string>anim</string>
 	<key>uuid</key>
 	<string>1F87D71E-98CE-42C0-9D86-8F562D76523A</string>
 </dict>

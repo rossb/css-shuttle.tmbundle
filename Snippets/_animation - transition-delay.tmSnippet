@@ -9,7 +9,7 @@
 	<key>scope</key>
 	<string>source.css,source.scss</string>
 	<key>tabTrigger</key>
-	<string>transition</string>
+	<string>trans</string>
 	<key>uuid</key>
 	<string>C6175A45-EAD8-4E82-A638-9A865243253C</string>
 </dict>

@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>animation-iteration-count: ${50: ${51|1,infinite|}};</string>
+	<string>object-fit: ${20:0}${10|%,px|} ${40:0}${30|%,px|};</string>
 	<key>name</key>
-	<string>animation-iteration-count</string>
+	<string>object-position</string>
 	<key>scope</key>
 	<string>source.css,source.scss</string>
 	<key>tabTrigger</key>
-	<string>anim</string>
+	<string>fit</string>
 	<key>uuid</key>
-	<string>572D804C-4CE9-48B8-9D5B-8132564C4FEC</string>
+	<string>9552B7B6-AA3A-4DF6-8D0E-9466EBA3518D</string>
 </dict>
 </plist>

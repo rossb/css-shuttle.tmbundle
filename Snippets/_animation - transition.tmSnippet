@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>transition: ${10|all,transform,color,background-color,background-position,width,height|} ${21:0}${20|ms,s|} ${30|ease,ease-in,ease-out,ease-in-out,linear,cubic-bezier()|}${40: ${41:0}$20}${50:, color 1$20};</string>
+	<string>transition: ${10|all,transform,color,background-color,background-position,width,height|} ${21:0}${20|ms,s|} ${30|ease,ease-in,ease-out,ease-in-out,linear,step-start,step-end,steps(4, end),cubic-bezier(http://cubic-bezier.com/)|}${40: ${41:0}$20}${50:, color 1$20};</string>
 	<key>name</key>
 	<string>transition</string>
 	<key>scope</key>
 	<string>source.css,source.scss</string>
 	<key>tabTrigger</key>
-	<string>transition</string>
+	<string>trans</string>
 	<key>uuid</key>
 	<string>94CF2416-386F-422D-989F-99A1235F7AC5</string>
 </dict>

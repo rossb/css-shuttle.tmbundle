@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>transition-timing-function: ${30|ease,ease-in,ease-out,ease-in-out,linear,cubic-bezier( http://cubic-bezier.com/ )|};</string>
+	<string>transition-timing-function: ${30|ease,ease-in,ease-out,ease-in-out,linear,step-start,step-end,steps(4, end),cubic-bezier(http://cubic-bezier.com/)|};</string>
 	<key>name</key>
 	<string>transition-timing-function</string>
 	<key>scope</key>
 	<string>source.css,source.scss</string>
 	<key>tabTrigger</key>
-	<string>transition</string>
+	<string>trans</string>
 	<key>uuid</key>
 	<string>DFAF1CCF-10F2-432E-8324-0C40C2C3511C</string>
 </dict>

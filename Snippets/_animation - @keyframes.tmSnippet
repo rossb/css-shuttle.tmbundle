@@ -16,7 +16,7 @@
 	<key>scope</key>
 	<string>source.css,source.scss</string>
 	<key>tabTrigger</key>
-	<string>keyframes</string>
+	<string>frames</string>
 	<key>uuid</key>
 	<string>D3B7AD5F-E53D-4431-A19C-24CC6E7A5F8E</string>
 </dict>

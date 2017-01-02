@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>animation-timing-function: ${30|ease,ease-in,ease-out,ease-in-out,linear,cubic-bezier(http://cubic-bezier.com/)|};</string>
+	<string>animation-timing-function: ${30|ease,ease-in,ease-out,ease-in-out,linear,step-start,step-end,steps(4, end),cubic-bezier(http://cubic-bezier.com/)|};</string>
 	<key>name</key>
 	<string>animation-timing-function</string>
 	<key>scope</key>
 	<string>source.css,source.scss</string>
 	<key>tabTrigger</key>
-	<string>animation</string>
+	<string>anim</string>
 	<key>uuid</key>
 	<string>93A27492-8EE3-453F-B852-CCE44E39A829</string>
 </dict>

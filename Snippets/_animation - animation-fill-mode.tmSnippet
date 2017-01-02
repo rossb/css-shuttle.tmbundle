@@ -9,7 +9,7 @@
 	<key>scope</key>
 	<string>source.css,source.scss</string>
 	<key>tabTrigger</key>
-	<string>animation</string>
+	<string>anim</string>
 	<key>uuid</key>
 	<string>68E55674-A7D0-4571-B7EB-70F84BD51E0F</string>
 </dict>

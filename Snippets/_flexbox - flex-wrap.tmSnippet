@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>${10|align-content:,« cross axis alignment (applies to multiple lines) »|} ${20|stretch,flex-start,flex-end,center,space-between,space-around|};</string>
+	<string>flex-wrap: ${10|nowrap,wrap,wrap-reverse|};</string>
 	<key>name</key>
-	<string>align-content</string>
+	<string>flex-wrap</string>
 	<key>scope</key>
 	<string>source.css,source.scss</string>
 	<key>tabTrigger</key>
 	<string>flex</string>
 	<key>uuid</key>
-	<string>1B3E4461-079F-45D5-9624-50B5DE36026C</string>
+	<string>58A30A7C-3240-4655-9CA7-990CBF0F1690</string>
 </dict>
 </plist>

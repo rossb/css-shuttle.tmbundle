@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>flex-flow: ${10|row,column,row-reverse,column-reverse|} ${20|nowrap,wrap,wrap-reverse|};</string>
+	<string>flex-flow: ${10|row,column,row-reverse,column-reverse,« flex-direction »|} ${20|nowrap,wrap,wrap-reverse,« flex-wrap »|};</string>
 	<key>name</key>
 	<string>flex-flow</string>
 	<key>scope</key>

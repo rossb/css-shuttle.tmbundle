@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>${5|justify-content:,« X/main axis alignment »|} ${10|flex-start,flex-end,center,space-between,space-around|};</string>
+	<string>${5|justify-content:,« main axis alignment »|} ${10|flex-start,flex-end,center,space-between,space-around|};</string>
 	<key>name</key>
 	<string>justify-content</string>
 	<key>scope</key>

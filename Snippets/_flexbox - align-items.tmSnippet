@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>${10|align-items:,« Y/cross axis alignment »|} ${20|flex-start,flex-end,center,baseline,stretch|};</string>
+	<string>${10|align-items:,« cross axis alignment »|} ${20|stretch,flex-start,flex-end,center,baseline|};</string>
 	<key>name</key>
 	<string>align-items</string>
 	<key>scope</key>

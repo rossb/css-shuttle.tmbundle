@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>flex:${10: ${11|initial,auto,none,&lt;integer&gt;|}}${20: ${21|0,1,2,« flex-grow »|} ${30|1,0,2,« flex-shrink »|} ${40|auto,0,100px,100%,« flex-basis »|}};</string>
+	<string>flex: ${10:${11|0,1,2,« flex-grow »|} ${20|1,0,2,« flex-shrink »|} ${30|auto,0%,« flex-basis »|}};</string>
 	<key>name</key>
 	<string>flex</string>
 	<key>scope</key>

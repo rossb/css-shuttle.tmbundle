@@ -8,7 +8,7 @@ perspective-origin: ${30|0,50,100|}${20|%,px|}${40: ${41:$30}$20};</string>
 	<key>name</key>
 	<string>3D perspective</string>
 	<key>scope</key>
-	<string>source.css,source.scss</string>
+	<string>source.css,source.css.less,source.scss,source.stylus</string>
 	<key>tabTrigger</key>
 	<string>transform</string>
 	<key>uuid</key>

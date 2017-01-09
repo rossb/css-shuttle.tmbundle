@@ -11,7 +11,7 @@
 	<key>name</key>
 	<string>flexbox</string>
 	<key>scope</key>
-	<string>source.css,source.scss</string>
+	<string>source.css,source.css.less,source.scss,source.stylus</string>
 	<key>tabTrigger</key>
 	<string>center</string>
 	<key>uuid</key>

@@ -54,7 +54,7 @@ table {
 	<key>name</key>
 	<string>Eric Meyer's Reset v2.0</string>
 	<key>scope</key>
-	<string>source.css,source.scss</string>
+	<string>source.css,source.css.less,source.scss,source.stylus</string>
 	<key>tabTrigger</key>
 	<string>reset</string>
 	<key>uuid</key>

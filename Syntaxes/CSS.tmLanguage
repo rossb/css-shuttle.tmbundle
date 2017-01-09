@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array>
+		<string>css</string>
+		<string>scss</string>
+		<string>less</string>
+		<string>css.erb</string>
+		<string>css.scss</string>
+		<string>stylus</string>
+	</array>
+	<key>isDisabled</key>
+	<true/>
+	<key>name</key>
+	<string>CSS Extender</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>match</key>
+			<string>\b(object-fit|object-position)\b</string>
+			<key>name</key>
+			<string>support.type.property-name.css</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\b(contain|cover|flex-start)\b</string>
+			<key>name</key>
+			<string>support.constant.property-value.css</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\b(contain|cover|flex-start)\b</string>
+			<key>name</key>
+			<string>meta.property-list.scss</string>
+		</dict>
+	</array>
+	<key>scopeName</key>
+	<string>source.scss</string>
+	<key>uuid</key>
+	<string>E2A6F5DD-7935-4B07-8A85-C26C893BC4E8</string>
+</dict>
+</plist>

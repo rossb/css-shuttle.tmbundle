@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>transform-origin</string>
 	<key>scope</key>
-	<string>source.css,source.scss</string>
+	<string>source.css,source.css.less,source.scss,source.stylus</string>
 	<key>tabTrigger</key>
 	<string>transform</string>
 	<key>uuid</key>

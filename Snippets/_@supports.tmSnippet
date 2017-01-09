@@ -11,7 +11,7 @@ $0
 	<key>name</key>
 	<string>@supports block</string>
 	<key>scope</key>
-	<string>source.css,source.scss</string>
+	<string>source.css,source.css.less,source.scss,source.stylus</string>
 	<key>tabTrigger</key>
 	<string>media</string>
 	<key>uuid</key>
